@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: chatbotAI
+Version: 0.3.1.3
+Summary: A chatbot AI engine is a chatbot builder platform that provides both bot intelligence and chat handler with minimal codding
+Author: Ahmad Faizal B H
+Author-email: ahmadfaizalbh726@gmail.com
+License: MIT
+Keywords: chatbot ai engine and chat builder platform
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Natural Language :: German
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Natural Language :: Hebrew
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Communications :: Chat
+Description-Content-Type: text/markdown
+
+Paso 1:
+primero se entrena el chatbot con este comando
+            "pip setup.py install"
+paso 2:
+entrar al entorno de python y escribir esto:
+        from chatbot import demo
+luego le das enter y escribir esto
+        demo()

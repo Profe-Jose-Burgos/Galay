@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: chatbot
+Version: 0.0.0
+License: MIT
+Keywords: chatbot ai engine and chat builder platform
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Natural Language :: Spanish
+Classifier: Natural Language :: German
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Natural Language :: Hebrew
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Communications :: Chat
