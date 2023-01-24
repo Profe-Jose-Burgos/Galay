@@ -13,12 +13,12 @@ async def send_message(message, user_message, is_private):
 
 
 def run_discord_bot():
-    TOKEN = 'MTA2NzI0NjQ2NTA1Mjg1MjMxNA.GCkEUC.FrnECqFz1uWjz7ScFqhEfxwJSXpBfIsYI8aFeU'
+    TOKEN = 'MTA2NzI0NjQ2NTA1Mjg1MjMxNA.GG4BTw.v7agLoeRV9EjW3BnQsgFH0MBG-eXE2B0ZKI3xU'
     client = discord.Client(intents=discord.Intents.default())
 
     @client.event
     async def on_ready():
-        print(f'{client.user} is now running!')
+        print(f'{client.user} esta ahora conectado!')
 
     @client.event
     async def on_message(message):
