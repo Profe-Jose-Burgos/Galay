@@ -1,0 +1,39 @@
+{"intents": [
+        {"tag": "saludo",
+         "patterns": ["Hola","Como estas", "Hay alguien ahi?", "Que tal", "Buenas", "Buenas tardes", "Buenos dias", "Buenas noches","Aló?"],
+         "responses": ["Hola, gracias por visitar", "Que gusto de verle","Hola, como te puedo ayudar?", "Que gusto verle, en que le puedo ayudar?", "Encantado de conocerle, en que le puedo ayudar?", "Hola!", "Bienvenido!","Hola, es un placer conocerle, en que le ayudo?"]
+        },
+        {"tag": "despedida",
+         "patterns": ["Adios", "Nos vemos", "Chao", "Hasta pronto", "Hasta nunca", "Cuidate!", "Hasta luego", "Que tenga un buen dia", "Que te vaya bien"],
+         "responses": ["Hasta luego, gracias por visitarnos", "Que tenga un buen dia", "Hasta luego, espero que vuelva pronto.", "Hasta luego", "Hasta pronto", "Cuidate!", "Estoy feliz de poder ayudarle!", "vuelva pronto", "Nos vemos!","Que te vaya bien", "Muchas gracias por su tiempo.", "Espero volver a verle pronto. Adios!"]
+        },
+        {"tag": "Gracias",
+         "patterns": ["Gracias","Muchas gracias","Mil gracias","Gracias por todo.", "Gracias de antemano", "Gracias por tu servicio.", "Ok"],
+         "responses": ["Encantada de ayudarle!", "Encantada de ayudar!", "Cuando quieras!", "Gracias por venir hoy.", "El placer es mio", "Un placer", "Es un placer", "No hay problema", "Ni lo menciones, estoy encantada de ayudarte", "Me dio gusto ayudar", "Sin problema!", "Me dio gusto poder asisirle", "No fue nada", "Siempre me da gusto ayudar"]
+        },
+        {"tag": "horas",
+         "patterns": ["A que horas abren?", "Cual es su horario de atencion?", "Cuando abren?"],
+         "responses": ["Bueno, nosotros abrimos de lunes a viernes de 8:00 AM a 5:00 PM y los sabados de 8:30 AM a 12.30 PM. El horario para cursos son de lunes a viernes 8:00 AM a 9:00 PM y sabados de 9:00 AMa 5:00 PM.", "Abrimos de lunes a viernes de 8:00 AM a 5:00 PM y los sabados de 8:30 AM a 12.30 PM"]
+        },
+        {"tag": "pagos",
+         "patterns": ["Aceptan tarjetas de credito?", "Aceptan Mastercard?", "Se acepta Mastercard?","Aceptan tarjetas Mastercard?", "Solo pagan en efectivo?", "Acepta tarjetas de credito?", "Solo se paga en efectivo?"],
+         "responses": ["Aceptamos Visa, American Express y Master Card. Tambien aceptamos cupones de formacion prepagados, vales de formacion de Microsoft Software Assurance (SATV) o creditos de aprendizaje de Cisco.", "Aceptamos todas las tarjetas de credito"]
+        },
+        {"tag": "compañia",
+         "patterns": ["Cuantame de la compañia en la que trabajas", "Cuantame de la empresa en la que trabajas", "De que se trata su empresa", "De que se trata su compañia", "Que es su compañia?", "Que es su empresa?", "Que hacen en New Horizon?", "Que es New Horizon?"],
+         "responses": ["Para no hacerte largo la historia, New Horizons Panama, es el centro de capacitacion y actualizacion tecnologica certificado por Microsoft en Panama, ofreciendote una extensa seleccion de formacion como proveedor autorizado y certificaciones para los proveedores de tecnologia de punta, tales como Adobe, Cisco, Citrix, Microsoft y VMware. Y Visitanos en https://panamacity.newhorizons.com/ si quieres mas informacion"]
+        },
+        {"tag": "años",
+         "patterns": ["Cuantos años tienes", "cuando te hicieron","cual es tu edad"],
+         "responses": ["Bueno, me hicieron en 2023, si eso es lo que preguntas!"]
+        },
+        {"tag": "Identidad",
+         "patterns": ["Quien eres", "Que eres"],
+         "responses": ["Soy Aliya, un chatbot de deep learning"]
+        },
+        {"tag": "ayuda",
+         "patterns": ["En que me puedes ayudar?", "como me ayudas?", "que puedes hacer?", "Como puedes ayudar?"],
+         "responses": ["Te puedo ayudar con cualquier consulta o duda que tengas sobre nuestra compañia, desde que es la compañia, metodos de pagos, o decirte un poco sobre mi, como mi edad o quien soy si quieres."]
+  }
+ ]
+}
