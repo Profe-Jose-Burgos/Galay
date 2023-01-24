@@ -1,4 +1,5 @@
 # Galay
+  Este es un chatbot para supermercado que se implementa inteligencia artificial para interactuar con los clientes a través de una plataforma de chat. Puede ayudar a los cliente a encontrar productos y  resolver problemas  relacionado con el servicio al cliente.
 integrantes
 *  Imanol Rodríguez Álvarez  
 *  Jaime Loo  
