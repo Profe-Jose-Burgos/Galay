@@ -5,7 +5,7 @@
         },
         {"tag": "despedida",
          "patterns": ["Adios", "Nos vemos", "Chao", "Hasta pronto", "Hasta nunca", "Cuidate!", "Hasta luego", "Que tenga un buen dia", "Que te vaya bien"],
-         "responses": ["Hasta luego, gracias por visitarnos", "Que tenga un buen dia", "Hasta luego, espero que vuelva pronto.", "Hasta luego", "Hasta pronto", "Cuidate!", "Estoy feliz de poder ayudarle! (⌒‿⌒)", "vuelva pronto", "Nos vemos!","Que te vaya bien", "Muchas gracias por su tiempo.", "Espero volver a verle pronto. Adios!"]
+         "responses": ["Hasta luego, gracias por visitarnos", "Que tenga un buen dia", "Hasta luego, espero que vuelva pronto.", "Hasta luego", "Hasta pronto", "Cuidate!", "Estoy feliz de poder ayudarle! ", "vuelva pronto", "Nos vemos!","Que te vaya bien", "Muchas gracias por su tiempo.", "Espero volver a verle pronto. Adios!"]
         },
         {"tag": "Gracias",
          "patterns": ["Gracias","Muchas gracias","Mil gracias","Gracias por todo.", "Gracias de antemano", "Gracias por tu servicio.", "Ok"],
@@ -19,29 +19,13 @@
          "patterns": ["Aceptan tarjetas de credito?", "Aceptan Mastercard?", "Se acepta Mastercard?","Aceptan tarjetas Mastercard?", "Solo pagan en efectivo?", "Acepta tarjetas de credito?", "Solo se paga en efectivo?"],
          "responses": ["Aceptamos Visa, American Express y Master Card. Tambien aceptamos cupones de formacion prepagados, vales de formacion de Microsoft Software Assurance (SATV) o creditos de aprendizaje de Cisco.", "Aceptamos todas las tarjetas de credito"]
         },
-        {"tag": "quejas",
-         "patterns": ["Necesito hacer una queja", "Quiero hacer una queja", "Como puedo hacer una queja?", "Donde puedo hacer una queja?", "Exijo hacer una queja"],
-         "responses": ["Si quieres hacer una queja puedes hacer un ticket a la empresa directamente con nuestro gmail: nombre@tuempresa.com o a traves de este número +507 XXX-XXX"]
-        },
-        {"tag": "Pedidos a domicilio",
-         "patterns": ["Quiero hacer un pedido", "Como puedo hacer un pedido?", "Se puede pedir en linea?", "Tienen entrega a domicilio?"],
-         "responses": ["Puedes pedir nuestro servicio a domicilio a traves de plataformas como en pedidos ya (https://www.pedidosya.com.pa/) o en pocotón (https://pocoton.com.pa/) pero no olvides comprar nuestros productos locales, que son mucho más frescos y más deliciosos (ᵔ◡ᵔ)"]
-        },
-        {"tag": "Productos",
-         "patterns": ["Que productos me recomiendas?", "Cuales son sus mejores productos?", "Que productos tienen?"],
-         "responses": ["Tenemos de mucho y más como frescas Bananas a 1.50$, además de ser productos totalmente nacionales y buenos para la salud 😋", "Tenemos manzanas a 1 dolar, muy jugosas y perfectas para adquirir mucha energía", "Tenemos productos como la carne que es de nuestro productos locales como el res a 3 dolares", "Tenemos varios productos, te recomiendo nuestros productos locales, que son frescos, mejores, saludables y más deliciosos 😋"]
-        },
-        {"tag": "Ofertas",
-         "patterns": ["Tienen ofertas?", "Hay ofertas?", "", "Tienen alguna oferta?"],
-         "responses": ["Productos limitados: «las 50 primeras compras, gastos de envío gratis».", "Tiempo limitado: «puedes comprar solo hasta las 22:00 con un 15% de descuento».", "Puedes recibir un descuento del hasta 15% si consigues que otro amigo realiceuna compra en nuestro servicio a domicilio"]
-        },
         {"tag": "años",
          "patterns": ["Cuantos años tienes", "cuando te hicieron","cual es tu edad"],
          "responses": ["Bueno, me hicieron en 2023, si eso es lo que preguntas!"]
         },
         {"tag": "Identidad",
          "patterns": ["Quien eres", "Que eres"],
-         "responses": ["Soy un chatbot creado por el equipo de GALAY ;)"]
+         "responses": ["Soy un chatbot creado por el equipo de GALAY"]
         },
         {"tag": "ayuda",
          "patterns": ["En que me puedes ayudar?", "como me ayudas?", "que puedes hacer?", "Como puedes ayudar?"],
